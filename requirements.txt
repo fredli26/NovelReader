@@ -1,0 +1,4 @@
+Flask==3.0.0
+beautifulsoup4==4.12.2
+edge-tts==6.1.17
+mutagen==1.46.0
